@@ -1,10 +1,10 @@
 ###Related Publications:
 
-Please cite the implementation from the paper below (and the one above) if you use this code in your publication:
+[**Monocular SLAM Supported Object     Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>
+ [Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>
+ Robotics: Science and Systems 2015. [arXiv preprint](http://arxiv.org/abs/1506.01732)
 
-[**Monocular SLAM Supported Object Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>
-[Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>
-Robotics: Science and Systems 2015. [arXiv preprint](http://arxiv.org/abs/1506.01732)
+Please cite the implementation from the paper above (and below) if you use this code in your publication.
 
 This code is mostly based on:
 
