@@ -3,7 +3,7 @@ recognition-utils
 
 A collection of files that I regularly use in my research for object recognition/classification
 
-**Author(s): [Sudeep Pillai](http://people.csail.mit.edu/spillai/) (spillai@csail.mit.edu)**
+**Author(s): [Sudeep Pillai](http://people.csail.mit.edu/spillai/)**
 
 ###Dependencies:
 OpenCV 2.4.9
