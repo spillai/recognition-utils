@@ -5,6 +5,12 @@ A collection of files that I regularly use in my research for object recognition
 
 **Author(s): [Sudeep Pillai](http://people.csail.mit.edu/spillai/)**
 
+###Related Publications:
+
+[**Monocular SLAM Supported Object     Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>
+ [Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>
+ Robotics: Science and Systems 2015. [arXiv preprint](http://arxiv.org/abs/1506.01732)
+
 ###Dependencies:
 OpenCV 2.4.9
 
@@ -12,8 +18,3 @@ OpenCV 2.4.9
 MIT
 
 
-###Related Publications:
-
-[**Monocular SLAM Supported Object     Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>
- [Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>
- Robotics: Science and Systems 2015. [arXiv preprint](http://arxiv.org/abs/1506.01732)
