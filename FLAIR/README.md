@@ -1,4 +1,4 @@
-###Related Publications:
+### Related Publications:
 
 [**Monocular SLAM Supported Object     Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>
  [Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>
@@ -12,8 +12,8 @@ This code is mostly based on:
     Koen van de Sande, Cees G. M. Snoek, Arnold W. M. Smeulders
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014
 
-###Dependencies:
+### Dependencies:
 OpenCV 2.4.9
 
-###License:
+### License:
 MIT
